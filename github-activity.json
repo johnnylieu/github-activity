@@ -2,6 +2,12 @@
   {
     "type": "PushEvent",
     "repo": "johnnylieu/github-activity",
+    "created_at": "2025-04-01T12:49:22Z",
+    "url": "https://api.github.com/repos/johnnylieu/github-activity"
+  },
+  {
+    "type": "PushEvent",
+    "repo": "johnnylieu/github-activity",
     "created_at": "2025-04-01T02:03:30Z",
     "url": "https://api.github.com/repos/johnnylieu/github-activity"
   },
@@ -112,11 +118,5 @@
     "repo": "johnnylieu/github-activity",
     "created_at": "2025-03-17T01:52:08Z",
     "url": "https://api.github.com/repos/johnnylieu/github-activity"
-  },
-  {
-    "type": "PushEvent",
-    "repo": "johnnylieu/Palet",
-    "created_at": "2025-03-17T01:37:24Z",
-    "url": "https://api.github.com/repos/johnnylieu/Palet"
   }
 ]
