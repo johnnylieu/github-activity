@@ -88,11 +88,5 @@
     "repo": "johnnylieu/github-activity",
     "created_at": "2025-05-26T12:49:27Z",
     "url": "https://api.github.com/repos/johnnylieu/github-activity"
-  },
-  {
-    "type": "PushEvent",
-    "repo": "johnnylieu/github-activity",
-    "created_at": "2025-05-26T06:36:19Z",
-    "url": "https://api.github.com/repos/johnnylieu/github-activity"
   }
 ]
