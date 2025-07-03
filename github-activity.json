@@ -1,5 +1,11 @@
 [
   {
+    "type": "PushEvent",
+    "repo": "johnnylieu/github-activity",
+    "created_at": "2025-07-02T18:35:15Z",
+    "url": "https://api.github.com/repos/johnnylieu/github-activity"
+  },
+  {
     "type": "PublicEvent",
     "repo": "johnnylieu/notable_quotes_homework",
     "created_at": "2025-07-02T00:03:35Z",
@@ -111,12 +117,6 @@
     "type": "PushEvent",
     "repo": "johnnylieu/github-activity",
     "created_at": "2025-06-26T12:53:07Z",
-    "url": "https://api.github.com/repos/johnnylieu/github-activity"
-  },
-  {
-    "type": "PushEvent",
-    "repo": "johnnylieu/github-activity",
-    "created_at": "2025-06-26T06:37:13Z",
     "url": "https://api.github.com/repos/johnnylieu/github-activity"
   }
 ]
