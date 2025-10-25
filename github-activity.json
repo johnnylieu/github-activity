@@ -1,122 +1,26 @@
 [
   {
     "type": "PushEvent",
-    "repo": "johnnylieu/github-activity",
-    "created_at": "2025-07-04T06:37:30Z",
-    "url": "https://api.github.com/repos/johnnylieu/github-activity"
+    "repo": "johnnylieu/about_me_website",
+    "created_at": "2025-10-25T00:32:11Z",
+    "url": "https://api.github.com/repos/johnnylieu/about_me_website"
   },
   {
     "type": "PushEvent",
-    "repo": "johnnylieu/github-activity",
-    "created_at": "2025-07-03T18:35:07Z",
-    "url": "https://api.github.com/repos/johnnylieu/github-activity"
+    "repo": "johnnylieu/about_me_website",
+    "created_at": "2025-10-25T00:31:27Z",
+    "url": "https://api.github.com/repos/johnnylieu/about_me_website"
   },
   {
     "type": "PushEvent",
-    "repo": "johnnylieu/github-activity",
-    "created_at": "2025-07-03T12:51:02Z",
-    "url": "https://api.github.com/repos/johnnylieu/github-activity"
+    "repo": "johnnylieu/about_me_website",
+    "created_at": "2025-10-21T01:26:21Z",
+    "url": "https://api.github.com/repos/johnnylieu/about_me_website"
   },
   {
     "type": "PushEvent",
-    "repo": "johnnylieu/github-activity",
-    "created_at": "2025-07-03T06:37:19Z",
-    "url": "https://api.github.com/repos/johnnylieu/github-activity"
-  },
-  {
-    "type": "PushEvent",
-    "repo": "johnnylieu/github-activity",
-    "created_at": "2025-07-03T02:04:15Z",
-    "url": "https://api.github.com/repos/johnnylieu/github-activity"
-  },
-  {
-    "type": "PushEvent",
-    "repo": "johnnylieu/github-activity",
-    "created_at": "2025-07-02T18:35:15Z",
-    "url": "https://api.github.com/repos/johnnylieu/github-activity"
-  },
-  {
-    "type": "PublicEvent",
-    "repo": "johnnylieu/notable_quotes_homework",
-    "created_at": "2025-07-02T00:03:35Z",
-    "url": "https://api.github.com/repos/johnnylieu/notable_quotes_homework"
-  },
-  {
-    "type": "PushEvent",
-    "repo": "johnnylieu/notable_quotes_homework",
-    "created_at": "2025-07-01T23:02:21Z",
-    "url": "https://api.github.com/repos/johnnylieu/notable_quotes_homework"
-  },
-  {
-    "type": "CreateEvent",
-    "repo": "johnnylieu/notable_quotes_homework",
-    "created_at": "2025-07-01T22:36:38Z",
-    "url": "https://api.github.com/repos/johnnylieu/notable_quotes_homework"
-  },
-  {
-    "type": "CreateEvent",
-    "repo": "johnnylieu/notable_quotes_homework",
-    "created_at": "2025-07-01T22:28:39Z",
-    "url": "https://api.github.com/repos/johnnylieu/notable_quotes_homework"
-  },
-  {
-    "type": "PushEvent",
-    "repo": "johnnylieu/github-activity",
-    "created_at": "2025-07-01T18:34:36Z",
-    "url": "https://api.github.com/repos/johnnylieu/github-activity"
-  },
-  {
-    "type": "PushEvent",
-    "repo": "johnnylieu/github-activity",
-    "created_at": "2025-07-01T06:37:44Z",
-    "url": "https://api.github.com/repos/johnnylieu/github-activity"
-  },
-  {
-    "type": "PushEvent",
-    "repo": "johnnylieu/github-activity",
-    "created_at": "2025-06-30T18:35:06Z",
-    "url": "https://api.github.com/repos/johnnylieu/github-activity"
-  },
-  {
-    "type": "PushEvent",
-    "repo": "johnnylieu/github-activity",
-    "created_at": "2025-06-30T12:53:03Z",
-    "url": "https://api.github.com/repos/johnnylieu/github-activity"
-  },
-  {
-    "type": "PushEvent",
-    "repo": "johnnylieu/github-activity",
-    "created_at": "2025-06-30T06:38:01Z",
-    "url": "https://api.github.com/repos/johnnylieu/github-activity"
-  },
-  {
-    "type": "PushEvent",
-    "repo": "johnnylieu/github-activity",
-    "created_at": "2025-06-30T02:09:25Z",
-    "url": "https://api.github.com/repos/johnnylieu/github-activity"
-  },
-  {
-    "type": "PushEvent",
-    "repo": "johnnylieu/github-activity",
-    "created_at": "2025-06-29T18:32:36Z",
-    "url": "https://api.github.com/repos/johnnylieu/github-activity"
-  },
-  {
-    "type": "PushEvent",
-    "repo": "johnnylieu/github-activity",
-    "created_at": "2025-06-29T12:48:28Z",
-    "url": "https://api.github.com/repos/johnnylieu/github-activity"
-  },
-  {
-    "type": "PushEvent",
-    "repo": "johnnylieu/github-activity",
-    "created_at": "2025-06-29T06:34:39Z",
-    "url": "https://api.github.com/repos/johnnylieu/github-activity"
-  },
-  {
-    "type": "PushEvent",
-    "repo": "johnnylieu/github-activity",
-    "created_at": "2025-06-29T02:20:48Z",
-    "url": "https://api.github.com/repos/johnnylieu/github-activity"
+    "repo": "johnnylieu/about_me_website",
+    "created_at": "2025-10-21T01:25:55Z",
+    "url": "https://api.github.com/repos/johnnylieu/about_me_website"
   }
 ]
